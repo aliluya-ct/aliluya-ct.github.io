@@ -6,7 +6,7 @@ subtitle: Postdoc
 
 profile:
   align: right
-  image: tcao.jpg
+  image: tcao1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>中科院工业人工智能研究所</p>
