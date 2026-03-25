@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aliluya-ct.github.io/sitemap.xml
